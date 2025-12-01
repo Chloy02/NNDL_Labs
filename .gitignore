@@ -1,1 +1,5 @@
 .venv
+# Ignore large datasets in CIA_3
+
+CIA_3/chest_xray-20251201T045557Z-1-001
+CIA_3/heart+disease
